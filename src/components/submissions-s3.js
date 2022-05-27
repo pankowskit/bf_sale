@@ -11,10 +11,10 @@ class SubmissionsS3 extends Component{
                     <Col xs={12} md={6} className="minh-25vh d-none d-md-block"></Col>
                     <Col xs={12} md={6} className="minh-50vh d-flex align-items-center">
                         <div className="w-100 text-center text-md-start pt-5 text-shadow">
-                            <h2 className="dispaly-6 fw-bold text-secondary text-shadow">
+                            <h2 className="dispaly-6 fw-bold text-danger text-shadow">
                                 Dolor sit amet         
                             </h2>
-                            <p className="text-muted">
+                            <p className="text-white">
                                 Sed do eiusmod tempor incididunt ut labore et dolore magna 
                                 aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
                                 ullamco laboris nisi ut aliquip ex ea commodo consequat. 
